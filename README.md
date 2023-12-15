@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bitbybit17
-- 👀 I’m interested in pursuing a career in data science
-- 🌱 I’m currently a graduate mathematics student
-- 💞️ I’m looking to collaborate on projects with R, but I am open to other projects as well!
+- 👀 I’m interested in interval data analysis, large language models, pattern recognition, and other fun puzzles!
+- 🌱 I’m currently a data analyst
+- 💞️ I’m looking to collaborate on projects with python, but I am open to other projects as well!
 - 📫 How to reach me vlkris716@gmail.com
 
 <!---
